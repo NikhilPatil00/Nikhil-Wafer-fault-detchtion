@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Wafer Fault Detection
 
 #### Problem Statement:
@@ -242,3 +243,6 @@ git push
     
      
     
+=======
+# wafer-fault-detection
+>>>>>>> 24bd319fd45dcc4c0610295a45b677e7cd50c943
